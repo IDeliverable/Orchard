@@ -1,0 +1,4 @@
+[submodule "src/Orchard.Web/Modules/IDeliverable.Seo"]
+	path = src/Orchard.Web/Modules/IDeliverable.Seo
+	url = https://github.com/IDeliverable/IDeliverable.Seo.git
+	branch = orchard-1.10.x
